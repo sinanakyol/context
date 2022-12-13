@@ -12,3 +12,5 @@ function App() {
 }
 
 export default App;
+
+// Stillendirme yapmak için kapsayıcı eleman olarak "Container" kullanılmalı.
